@@ -1,1 +1,0 @@
-# Serverless-Content-Management-System-with-AWS-App-Runner
